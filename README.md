@@ -33,8 +33,10 @@ Inside root directory use command:
 
 ### Start Client
 
-1.cd client
-2.npm start
+```
+1. cd client
+2. npm start
+```
 
 ## Sign-in to TpConnects Book Crud app
 
